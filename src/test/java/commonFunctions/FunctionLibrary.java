@@ -282,6 +282,9 @@ public class FunctionLibrary {
 		bw.flush();
 		bw.close();
 	}
+	
+	//new method for commit
+	
 	//method for verifying Customer number in table
 	public static void customerTable()throws Throwable
 	{
